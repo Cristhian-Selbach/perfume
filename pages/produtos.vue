@@ -22,7 +22,7 @@
 
             <div class="flex justify-center">
               <a
-                href="/produtos"
+                href="/perfume"
                 class="text-center flex items-center justify-center mt-5 w-[230px] h-[40px] bg-[#FF6F82] rounded-xl text-white text-xl hover-effect"
               >
                 COMPRAR

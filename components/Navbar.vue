@@ -7,9 +7,13 @@
     <div
       class="mx-32 w-full flex justify-between items-center text-white text-lg"
     >
-      <div class="space-x-10"><a href="#">Menu</a><a href="#">Procurar</a></div>
+      <div class="space-x-10">
+        <a href="/produtos">Menu</a><a href="#">Procurar</a>
+      </div>
       <div class="text-3xl"><a href="/" class="logo">PARFUM DULCE</a></div>
-      <div class="space-x-10"><a href="#">Sobre</a><a href="#">Compras</a></div>
+      <div class="space-x-10">
+        <a href="/sobre">Sobre</a><a href="/perfume">Compras</a>
+      </div>
     </div>
   </div>
 </template>
